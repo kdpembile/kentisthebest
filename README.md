@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kentisthebest
-- 🌱 I’m currently learning various technology that was related on my field. 
+- 🌱 I’m currently learning various technology that is related to my field
 - 👩‍💻 I want to be a full stack developer 
 
 <!---
